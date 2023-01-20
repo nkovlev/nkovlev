@@ -1,16 +1,22 @@
-### Hi there 👋
+<h3 align="left">Hi,my name is Mykyta</h3>
 
-<!--
-**nkovlev/nkovlev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=nkovlev)
 
-Here are some ideas to get you started:
+<h3 align="left">I am a beginner Frontend Developer from Ukraine</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 💪 I like to write code
+ - 💼 I am glad to learn new things
+ - 🏓 In my free time, I would like to play football or table tennis
+
+<h3 align="left">📱Contacts</h3>
+
+<a href="mailto:nkovlev4@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=red"/></a> <a href="https://telegram.me/nick_devweb"><img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=blue"/></a>
+
+
+<h3 align="left">💻Languages and Tools</h3>
+
+<img src="https://img.shields.io/badge/HTML-gray?style=for-the-badge&logo=HTML5&logoColor=red"/> <img src="https://img.shields.io/badge/CSS-gray?style=for-the-badge&logo=CSS3&logoColor=blue"/> <img src="https://img.shields.io/badge/SAAS-gray?style=for-the-badge&logo=Sass&logoColor=pink"/> <img src="https://img.shields.io/badge/Javascript-gray?style=for-the-badge&logo=Javascript&logoColor=yellow"/> <img src="https://img.shields.io/badge/GIT-gray?style=for-the-badge&logo=Git&logoColor=red"/> <img src="https://img.shields.io/badge/Bootstrap-gray?style=for-the-badge&logo=Bootstrap&logoColor=EE82EE"/>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkovlev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
