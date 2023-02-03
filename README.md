@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=nkovlev)
 
-<h3 align="left">I am a beginner Frontend Developer from Ukraine</h3>
+<h3 align="left">I am a Junior Frontend Developer from Ukraine</h3>
 
  - 💪 I like to write code
  - 💼 I am glad to learn new things
