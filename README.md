@@ -15,7 +15,7 @@
 
 <h3 align="left">💻Languages and Tools</h3>
 
-<img src="https://img.shields.io/badge/HTML-gray?style=for-the-badge&logo=HTML5&logoColor=red"/> <img src="https://img.shields.io/badge/CSS-gray?style=for-the-badge&logo=CSS3&logoColor=blue"/> <img src="https://img.shields.io/badge/SAAS-gray?style=for-the-badge&logo=Sass&logoColor=pink"/> <img src="https://img.shields.io/badge/Javascript-gray?style=for-the-badge&logo=Javascript&logoColor=yellow"/> <br/><img src="https://img.shields.io/badge/GIT-gray?style=for-the-badge&logo=Git&logoColor=red"/> <img src="https://img.shields.io/badge/Bootstrap-gray?style=for-the-badge&logo=Bootstrap&logoColor=EE82EE"/> <img src="https://img.shields.io/badge/React-gray?style=for-the-badge&logo=React&logoColor=#61DAFB"/> <img src="https://img.shields.io/badge/Tailwind-gray?style=for-the-badge&logo=Tailwind CSS&logoColor=##06B6D4"/>
+<img src="https://img.shields.io/badge/HTML-gray?style=for-the-badge&logo=HTML5&logoColor=red"/> <img src="https://img.shields.io/badge/CSS-gray?style=for-the-badge&logo=CSS3&logoColor=blue"/> <img src="https://img.shields.io/badge/SAAS-gray?style=for-the-badge&logo=Sass&logoColor=pink"/> <img src="https://img.shields.io/badge/Javascript-gray?style=for-the-badge&logo=Javascript&logoColor=yellow"/> <br/><img src="https://img.shields.io/badge/GIT-gray?style=for-the-badge&logo=Git&logoColor=red"/> <img src="https://img.shields.io/badge/React-gray?style=for-the-badge&logo=React&logoColor=#61DAFB"/> <img src="https://img.shields.io/badge/Tailwind-gray?style=for-the-badge&logo=Tailwind CSS&logoColor=##06B6D4"/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkovlev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
