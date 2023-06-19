@@ -10,7 +10,7 @@
 
 <h3 align="left">📱Contacts</h3>
 
-<a href="mailto:nkovlev4@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=red"/></a> <a href="https://telegram.me/nick_devweb"><img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=blue"/></a>
+<a href="mailto:nkovlev4@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=red"/></a> <a href="https://telegram.me/nick_devweb"><img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=blue"/></a> <a href="https://www.linkedin.com/in/mykyta-kovlev-5aab54270/"><img src="https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=Linkedin&logoColor=blue"/></a>
 
 
 <h3 align="left">💻Languages and Tools</h3>
