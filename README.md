@@ -50,5 +50,6 @@ I am a Junior Frontend Developer from Ukraine.
 
 ---
 ### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkovlev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=170 align="center" src="https://github-readme-stats-nkg2.vercel.app/api/top-langs/?username=nkovlev&layout=compact" />
+</a>
