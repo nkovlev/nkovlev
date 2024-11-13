@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/mykyta-kovlev-5aab54270/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://telegram.me/nick_devweb">
+  <a href="https://telegram.me/nick_webdev">
     <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=blue"/>
   </a>
 </div>
