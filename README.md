@@ -10,30 +10,26 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nkovlev&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="nkovlev" /> </p>
 
 ### :man_technologist: About Me :
-I am a Junior Frontend Developer from Ukraine.
+💪 I like to write code<br/>
+💼 I am glad to learn new things<br/>
+🏓 In my free time, I like to play football or table tennis<br/>
+💭 Currently learning about React Native development!<br/>
 
-- 💪 I like to write code
-- 💼 I am glad to learn new things
-- 🏓 In my free time, I would like to play football or table tennis
-
-- 🔭 I’m currently working on [Shade project](https://testname01111.netlify.app/)
-
-- 📫 How to reach me **mykytakovlev@gmail.com**
+### 📀 Working
+ I’m currently working on [Shade project](https://testname01111.netlify.app/)
 
 # 💻 Tech Stack
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/sass-%23323330?style=for-the-badge&logo=sass&logoColor=CC6699)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Saas](https://img.shields.io/badge/Saas-%23E5E5E5?style=for-the-badge&logo=Saas&logoColor=3670A0)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![npm](https://img.shields.io/badge/npm-%23323330.svg?style=for-the-badge&logo=npm&logoColor=CB3837)
+![git](https://img.shields.io/badge/git-%2300599C.svg?style=for-the-badge&logo=git&logoColor=F05032)<br/>
+![Github](https://img.shields.io/badge/github-DB7093?style=for-the-badge&logo=github&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![redux](https://img.shields.io/badge/-redux-E10098?style=for-the-badge&logo=redux&logoColor=#764ABC)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)<br/>
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-illustrator-%231572B6?style=for-the-badge&logo=adobeillustrator&logoColor=#FF9A00)
 ![Photoshop](https://img.shields.io/badge/-photoshop-%2320232a?style=for-the-badge&logo=adobephotoshop&logoColor=#31A8FF)
